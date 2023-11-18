@@ -42,7 +42,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ vishal91-4.portfolio }}
+      url: ${{ https://vishal91-4-portfolio.github.io }}
     runs-on: ubuntu-latest
     needs: build
     steps:
