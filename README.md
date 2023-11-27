@@ -32,11 +32,13 @@ Certification coursework: Linear Algebra MIT EDX CS50 Harvard EDX Machine Learni
    - This model can classify images more accurately and can be a valuable tool for tasks like sorting images or detecting objects in a simple yet efficient manner.
    - Python with Keras for model development and deployment, and libraries like NumPy and Hugging Face Transformers for data preprocessing and transformer implementation.
 
-**Extracurriculars:**
-- **Hackathon Enthusiast:**
-   - Actively participated in local and regional hackathons, collaborating with diverse teams to solve real-world problems.
-   - Won the "Best Innovation" award at the City Tech Hackathon (2021) for a healthcare application prototype.
+**Position of Responsibility:**
+- **Club of Programmers IIT BHU (COPS) (Feb 2023 – Present)**   
+   - Software Development Guild CORE Team Member
 
-- **STEM Outreach Volunteer:**
-   - Volunteered at local schools to promote STEM education, conducting coding workshops for middle school students.
+- **Research Cell IIT BHU (RC) (Jul 2023 – Present)**
+   - AMA and Podcast Host
+
+- **EntrepreneurShip Cell IIT BHU (E-Cell) (Aug 2023 – Present)**
+   - Tech Team Member
 
