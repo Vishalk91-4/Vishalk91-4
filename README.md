@@ -2,7 +2,7 @@
 
 **_Indian Institute of Technology Varanasi_**
 
-Relevant Coursework: Data Structures, Introduction to Software Development, Programming Languages, Computer Architecture
+Relevant Coursework: Data Structures and Algorithms, Computer Organizations, Introduction to Object-Oriented Programming, Linear Alegebra, Probability and Statistics.
 
 **Work Experience:**
 - **Software Development Intern - XYZ Tech Solutions (Summer 2023):**
