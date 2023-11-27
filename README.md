@@ -6,6 +6,14 @@ Relevant Coursework: Data Structures and Algorithms, Computer Organizations, Int
 
 Certification coursework: Linear Algebra MIT EDX CS50 Harvard EDX Machine Learning Specialization - Coursera Andrew NG Deep Learning Specialization - Coursera Andrew NG Deep Learning Applications - Fast.AI
 
+**Technical Skills:**
+- **Programming:**
+   -  C/C++, C#, Java, Python, Go, Rust, JavaScript, TypeScript, MySQL, MATLAB, R, Git, Bash, Docker, GitHub, PostgreSQL, PHP, HTML5, CSS, Image Processing, Natural Language Processing(NLP), Deep Reinforcement Learning(DRL), Machne Learning(ML)
+- **Frameworks:**
+   -  NextJS, ReactJS, VueJS, Astro, Django
+- **Libraries:**
+   -  OpenCV, Scikit-Learn, PyTorch, Keras, TensorFlow, NumPy, Pandas, Matplotlib, MongoDB
+
 **Work Experience:**
 - **Sugar Labs (Summer 2023):**
    - Currently working on the “Sugarizer” project in a collaborative effort with SugarLabs under the supervision of Prof. Dr. Lionel Laske.
