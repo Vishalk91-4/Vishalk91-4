@@ -26,11 +26,9 @@ Certification coursework: Linear Algebra MIT EDX CS50 Harvard EDX Machine Learni
 **Technical Projects:**
 - **LFX Metrics (University Project):**
    - A project which provides Data about every Foundations which gets selected in Linux Foundation Mentorship in every term, gives every statistical data about it and provide a seamless experience for user, so that they don’t get confused and can select the projects they want to work on depending upon their convinient Tech Stack or based on the Foundation.
-   - The backend for this project has been made on Golang and the frontend on Astro, a lot of data was scrapped for each foundation, for this the DataBase Management System used is Postgre SQL.
 
 - **NES Emulator (University Project):**
    - A NES Emulator, with all the Operational Codes is built which can work on many devices simultaneously, the complete archietecture has been built from scratch, the MicroProcesser is also built in the same way
-   - This project is not built using C++, rather being built using Rust, since it’s a lot faster like being 100 times faster than C++ and like 10 times faster than Go. This makes it more efficient and effective to work with.
 
 - **ENV NPM Package (Personel Project):**
      - Publishing a NPM Package, which easily stores your API Key in dotenv file, when it is installed, using npm command, it checks using AI, whether the API Key is present or not and stores the same, asking if we want to store it in the same variable or rename to your choice.
@@ -38,7 +36,6 @@ Certification coursework: Linear Algebra MIT EDX CS50 Harvard EDX Machine Learni
 - **Image Detection Transformer (Personel Project):**
    - An image classifier that combines the power of Convolutional Neural Networks (CNNs) and Transformers to improve image recognition capabilities.
    - This model can classify images more accurately and can be a valuable tool for tasks like sorting images or detecting objects in a simple yet efficient manner.
-   - Python with Keras for model development and deployment, and libraries like NumPy and Hugging Face Transformers for data preprocessing and transformer implementation.
 
 **Position of Responsibility:**
 - **Club of Programmers IIT BHU (COPS) (Feb 2023 – Present)**   
