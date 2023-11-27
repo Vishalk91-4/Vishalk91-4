@@ -16,13 +16,13 @@ Certification coursework: Linear Algebra MIT EDX CS50 Harvard EDX Machine Learni
    - Developed full app along with the image classification for large, medium and small sized images.
 
 **Technical Projects:**
-- **Smart Home Automation System (University Project):**
-   - Designed and implemented a smart home system using IoT devices and mobile app integration.
-   - Utilized skills in Python, JavaScript, and IoT protocols to create a seamless automation experience.
+- **LFX Metrics (University Project):**
+   - A project which provides Data about every Foundations which gets selected in Linux Foundation Mentorship in every term, gives every statistical data about it and provide a seamless experience for user, so that they don’t get confused and can select the projects they want to work on depending upon their convinient Tech Stack or based on the Foundation.
+   - The backend for this project has been made on Golang and the frontend on Astro, a lot of data was scrapped for each foundation, for this the DataBase Management System used is Postgre SQL.
 
-- **Portfolio Website (Personal Project):**
-   - Developed a responsive and visually appealing portfolio website to showcase my skills and projects.
-   - Integrated HTML, CSS, and JavaScript for a modern and user-friendly design.
+- **NES Emulator (University Project):**
+   - A NES Emulator, with all the Operational Codes is built which can work on many devices simultaneously, the complete archietecture has been built from scratch, the MicroProcesser is also built in the same way
+   - This project is not built using C++, rather being built using Rust, since it’s a lot faster like being 100 times faster than C++ and like 10 times faster than Go. This makes it more efficient and effective to work with.
 
 **Extracurriculars:**
 - **Hackathon Enthusiast:**
