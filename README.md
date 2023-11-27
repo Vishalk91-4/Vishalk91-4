@@ -7,13 +7,13 @@ Relevant Coursework: Data Structures and Algorithms, Computer Organizations, Int
 Certification coursework: Linear Algebra MIT EDX CS50 Harvard EDX Machine Learning Specialization - Coursera Andrew NG Deep Learning Specialization - Coursera Andrew NG Deep Learning Applications - Fast.AI
 
 **Work Experience:**
-- **Software Development Intern - XYZ Tech Solutions (Summer 2023):**
-   - Collaborated with a dynamic team to develop and implement software solutions.
-   - Gained hands-on experience in full-stack development and contributed to project milestones.
+- **Sugar Labs (Summer 2023):**
+   - Currently working on the “Sugarizer” project in a collaborative effort with SugarLabs under the supervision of Prof. Dr. Lionel Laske.
+   - Using Vue Js, for creating newer applications for future adaptibitiy, Converted the entire framework from webL10n to i18next, changing the sugarizer-server code to GO Frameworks with docker implementation.
 
-- **Web Developer - Tech Innovators Club (2022-2023):**
-   - Led the development of the club's official website, enhancing user experience and functionality.
-   - Collaborated with fellow members to create engaging and interactive web content.
+- **Girl Script Summer of Code (2022-2023):**
+   - Developed frameworks for ML apps like ImagineAI, improving standard of prompt quality and consistency across different competencies, adhering to established guidelines and best practices.
+   - Developed full app along with the image classification for large, medium and small sized images.
 
 **Technical Projects:**
 - **Smart Home Automation System (University Project):**
