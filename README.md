@@ -1,6 +1,6 @@
 **Education:**
 
-**_Meadowbrook University_**: _Bachelors of Science in Computer Science_
+**_Indian Institute of Technology Varanasi_**
 
 Relevant Coursework: Data Structures, Introduction to Software Development, Programming Languages, Computer Architecture
 
