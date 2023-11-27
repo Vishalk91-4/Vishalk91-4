@@ -4,6 +4,8 @@
 
 Relevant Coursework: Data Structures and Algorithms, Computer Organizations, Introduction to Object-Oriented Programming, Linear Alegebra, Probability and Statistics.
 
+Certification coursework: Linear Algebra MIT EDX CS50 Harvard EDX Machine Learning Specialization - Coursera Andrew NG Deep Learning Specialization - Coursera Andrew NG Deep Learning Applications - Fast.AI
+
 **Work Experience:**
 - **Software Development Intern - XYZ Tech Solutions (Summer 2023):**
    - Collaborated with a dynamic team to develop and implement software solutions.
