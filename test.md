@@ -1,8 +1,8 @@
-Hi 👋🏻
+<h1 align="center">Hello Guys! I am Vishal! 🌅></h1>
 
-I am an open source developer who is love with Go, Kubernetes and Rust. I am making a Golang based AI terminal 🎉.
+<h2 I am an open source developer who is love with Go, Kubernetes and Rust. I am making a Golang based AI terminal 🎉.></h2>
 
-<img src="assets/GitHub-Banner.gif" style="height:360 width:auto display:flex justify-content:center"/>
+<img src="assets/GitHub-Banner.gif" style="height:auto width:auto display:flex justify-content:center"/>
 
 | Dashboard Stats | Currently Working On - Last 28 days |
 | ----------- | ----------- |
