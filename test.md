@@ -2,7 +2,7 @@ Hi 👋🏻
 
 I am an open source developer who is love with Go, Kubernetes and Rust. I am making a Golang based AI terminal 🎉.
 
-![Header GIF](assets/GitHub-Banner.gif)
+<img src="assets/GitHub-Banner.gif" style="height:360 width:auto display:flex justify-content:center"/>
 
 | Dashboard Stats | Currently Working On - Last 28 days |
 | ----------- | ----------- |
