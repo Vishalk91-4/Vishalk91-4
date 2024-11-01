@@ -44,7 +44,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 | Star Geographic Distribution | Star History |
 | ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+|img alt="Dashboard stats of @Vishalk91-4" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=116670999&image_size=auto" />|<img alt="@Vishalk91-4's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=116670999&activity_type=all&image_size=auto" />|
 
 | Company Affiliation | Lines of Code Changes |
 | ----------- | ----------- |
