@@ -48,7 +48,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 | Company Affiliation | Lines of Code Changes |
 | ----------- | ----------- |
-|<img src="assets/prsiz.png&image_size=auto" />|<img src="assets/linesofpr.png&image_size=auto" />|
+|<img src="assets/prsiz.png" style="width:auto" />|<img src="assets/linesofpr.png" style="width:auto" />|
 
 | Pull Request Size | Pull Request Lifecycle |
 | ----------- | ----------- |
