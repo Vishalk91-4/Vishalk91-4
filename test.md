@@ -52,7 +52,7 @@ For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/
 
 | Pull Request Size | Pull Request Lifecycle |
 | ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+|<img src="assets/image.png" style="width:auto" />|<img src="assets/org.jpeg" style="width:auto" />|
 
 | Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
 | ----------- | ----------- |
