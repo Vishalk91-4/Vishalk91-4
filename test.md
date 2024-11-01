@@ -1,6 +1,6 @@
-<h1 align="center">Hello Guys! I am Vishal! 🌅</h1>
+<h3 align="center">Hello Guys! I am Vishal! 🌅</h3>
 
-<h3 align="center">I am an open source developer who is love with Go, Kubernetes and Rust. I am making a Golang based AI terminal 🎉</h3>
+<h4 align="center">I am an open source developer who is love with Go, Kubernetes and Rust. I am making a Golang based AI terminal 🎉</h4>
 
 
 | Dashboard Stats | Currently Working On - Last 28 days |
