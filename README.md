@@ -10,6 +10,10 @@
 | ----------- | ----------- |
 |<img src="assets/prsiz.png" style="width:auto" />|<img src="assets/linesofpr.png" style="width:auto" />|
 
+| Geographic Location | Organization Contributed |
+| ----------- | ----------- |
+|<img src="assets/image.png" style="width:auto" />|<img src="assets/org.jpeg" style="width:auto" />|
+
 | LFX Mentorship | CNCF Post |
 | ----------- | ----------- |
 |<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1725162995451/edb940b7-cc00-4a35-924a-146024eac77e.png" style="width:auto" />|<img src="https://www.cncf.io/wp-content/uploads/2024/09/Single-Card-22.jpg" style="width:auto" />|
