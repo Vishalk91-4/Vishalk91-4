@@ -10,13 +10,6 @@
 | ----------- | ----------- |
 |<img src="assets/prsiz.png" style="width:auto" />|<img src="assets/linesofpr.png" style="width:auto" />|
 
-| Geographic Location | Organization Contributed |
+| LFX Mentorship | CNCF Post |
 | ----------- | ----------- |
-|<img src="assets/image.png" style="width:auto" />|<img src="assets/org.jpeg" style="width:auto" />|
-
-## My Latest Blog Posts 👇
-
-<!-- HASHNODE_BLOG:START -->
-- [My LFX Mentorship Journey : CNCF - KCL](https://vishalk91-4.hashnode.dev/my-lfx-mentorship-journey-cncf-kcl)
-
-<!-- HASHNODE_BLOG:END -->
+|<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1725162995451/edb940b7-cc00-4a35-924a-146024eac77e.png" style="width:auto" />|<img src="https://www.cncf.io/wp-content/uploads/2024/09/Single-Card-22.jpg" style="width:auto" />|
